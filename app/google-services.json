@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "566700492028",
+    "project_id": "fcmexample-454ac",
+    "storage_bucket": "fcmexample-454ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566700492028:android:467c203bf0d8848a340379",
+        "android_client_info": {
+          "package_name": "com.deepak.fcmexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566700492028-f20cchturmemddifeqmr388ljpdd98cr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deepak.fcmexample",
+            "certificate_hash": "97b49fbd06aeaa54b3f0e0745bdc0a2bdd415b68"
+          }
+        },
+        {
+          "client_id": "566700492028-6v6gs1ndk3okcjdd4tb5paan4m67b6f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoSj0CeWgHJ8FemRvKVyz20Z4-3OcRBMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566700492028-6v6gs1ndk3okcjdd4tb5paan4m67b6f5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
